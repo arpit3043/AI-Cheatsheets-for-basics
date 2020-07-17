@@ -1,2 +1,4 @@
 # AI-Cheatsheets-for-basics
 A cheat sheet (also cheatsheet) or crib sheet is a concise set of notes used for quick reference. Cheat sheets are so named because they may be used by students without the instructor's knowledge to cheat on a test.
+
+There are many facets to Machine Learning. As I started brushing up on the subject, I came across various “cheat sheets” that compactly listed all the key points I needed to know for a given topic. Eventually, I compiled over many Machine Learning-related cheat sheets. Some I reference frequently and thought others may benefit from them too. Here, I will upload at maximum cheatsheets which are suitable for work for the better cheat sheets I’ve found on the web. Let me know if I’m missing any you like, you can contribute and mail me at arpit3043@gmail.com
